@@ -1,7 +1,5 @@
 # SiteIQ — AI-Powered Property Diagnostic Report Generator
 
-> **UrbanRoof · Applied AI Builder Assignment**
-
 SiteIQ is an AI workflow tool that converts raw site inspection data into structured, client-ready **Detailed Diagnostic Reports (DDR)** automatically.
 
 ---
