@@ -1,6 +1,6 @@
 # ============================================================
 # SiteIQ — Property Diagnostic Intelligence Platform
-# Built by: Aashutosh Jain | UrbanRoof Assignment
+# Built by: Nishita Jain | UrbanRoof Assignment
 # ============================================================
 
 import os, re, json, base64
